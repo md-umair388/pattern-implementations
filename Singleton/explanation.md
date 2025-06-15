@@ -1,6 +1,16 @@
 # Singleton Pattern
 
-Explain the Singleton pattern here.
+## Intent
+Ensure a class has only one instance and provide a global access point to it.
 
-- **Intent**: Ensure a class has only one instance and provide a global point of access to it.
-- **Usage**: Useful for configuration, logging, etc.
+## Use Cases
+- Logging
+- Configuration
+- Caching
+
+## UML Diagram
+
+
+## References
+- [Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern)
+- [Refactoring Guru](https://refactoring.guru/design-patterns/singleton)
